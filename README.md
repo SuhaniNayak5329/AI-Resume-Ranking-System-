@@ -16,11 +16,7 @@ https://nikitamehra884-ai-resume-ranking-system-app-n4rqzk.streamlit.app/
 
 ---
 
-## 📂 GitHub Repository
 
-https://github.com/NikitaMehra884/AI-Resume-Ranking-System
-
----
 
 # 📖 Overview
 
